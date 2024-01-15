@@ -1,5 +1,5 @@
 # Computer-Escape
-![ce_icon](https://github.com/hyjang14/NPC_Computer-Escape/assets/126192446/d10c9022-fafd-437d-af89-c1f84dc453a8)
+![ce_icon](https://github.com/hyjang14/NPC_Computer-Escape/assets/126192446/11dba52b-dcf1-499d-a4a1-6bb044aade7d)
 
 ## 🖥️ 프로젝트 소개
 #### 주인공 파이가 컴퓨터 속에서 탈출하기 위한 모험을 그려낸 캐주얼 게임 개발 프로젝트
