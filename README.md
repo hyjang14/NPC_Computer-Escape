@@ -1,5 +1,5 @@
 # Computer-Escape
-<img width="30%" src="https://github.com/user-attachments/assets/ce1b549c-1555-4915-8f0b-93e40c8f9849"/><br>
+<img width="20%" src="https://github.com/user-attachments/assets/ce1b549c-1555-4915-8f0b-93e40c8f9849"/><br>
 
 
 ## 🖥️ 프로젝트 소개
@@ -24,6 +24,7 @@
 <img width="30%" src="https://github.com/user-attachments/assets/69dc2134-7422-4e46-ae01-c7150915b112"/>
 <img width="30%" src="https://github.com/user-attachments/assets/847e1650-de45-423f-b78f-beaf5d227e3d"/>
 <img width="30%" src="https://github.com/user-attachments/assets/938cd014-03ed-4eb6-ba63-f1833492ee37"/><br>
+
 ## 🕰️ 개발 기간
 - 23/07 ~ 23/09/20 (약 3달)
 
