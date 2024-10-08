@@ -19,14 +19,14 @@
 - 다양한 퍼즐과 위험이 곳곳에서 기다리고 있습니다.
 - 숨어있는 이벤트들을 찾아 즐겨보세요.
 어쩌면 숨겨진 결말이 기다리고 있을지도..?
-<img width="30%" src="https://github.com/user-attachments/assets/5cbdadb8-52ff-48a6-81e9-3459eed8a7cd"/>
-<img width="30%" src="https://github.com/user-attachments/assets/7594f8b2-5360-4b2b-82f5-c96ec2b59ff5"/>
-<img width="30%" src="https://github.com/user-attachments/assets/69dc2134-7422-4e46-ae01-c7150915b112"/>
-<img width="30%" src="https://github.com/user-attachments/assets/847e1650-de45-423f-b78f-beaf5d227e3d"/>
-<img width="30%" src="https://github.com/user-attachments/assets/938cd014-03ed-4eb6-ba63-f1833492ee37"/>
-<img width="30%" src="https://github.com/user-attachments/assets/9693780a-6b69-40c8-9e12-31980016c980"/>
-<img width="30%" src="https://github.com/user-attachments/assets/a731b660-424d-4354-a705-74a8372bd713"/>
-<img width="30%" src="https://github.com/user-attachments/assets/45d5d9d1-31bf-49cd-abea-5b834f47fee9"/>
+<img width="40%" src="https://github.com/user-attachments/assets/5cbdadb8-52ff-48a6-81e9-3459eed8a7cd"/>
+<img width="40%" src="https://github.com/user-attachments/assets/7594f8b2-5360-4b2b-82f5-c96ec2b59ff5"/><br>
+<img width="40%" src="https://github.com/user-attachments/assets/69dc2134-7422-4e46-ae01-c7150915b112"/>
+<img width="40%" src="https://github.com/user-attachments/assets/847e1650-de45-423f-b78f-beaf5d227e3d"/><br>
+<img width="40%" src="https://github.com/user-attachments/assets/938cd014-03ed-4eb6-ba63-f1833492ee37"/>
+<img width="40%" src="https://github.com/user-attachments/assets/9693780a-6b69-40c8-9e12-31980016c980"/><br>
+<img width="40%" src="https://github.com/user-attachments/assets/a731b660-424d-4354-a705-74a8372bd713"/>
+<img width="40%" src="https://github.com/user-attachments/assets/45d5d9d1-31bf-49cd-abea-5b834f47fee9"/>
 
 <br>
 
